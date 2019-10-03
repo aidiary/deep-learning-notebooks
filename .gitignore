@@ -106,3 +106,6 @@ venv.bak/
 .data/
 .vscode/
 *.pt
+data/
+models/
+my_log_dir/
